@@ -24,4 +24,3 @@ I build a rock-paper-scissors game using only JavaScript.
 
 * The computer's selection must be random to ensure a fair game.
 
-* Follow your pseudocode as much as you can, and if you get stuck don't worry, this is a challenging assignment.
