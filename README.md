@@ -20,7 +20,7 @@ I build a rock-paper-scissors game using only JavaScript.
   * I can enter R, P, or S to signify my choice of rock, paper, or scissors.
   * I expect the computer to choose R, P, or S in return.
   * I want the option to play again whether I win or lose.
-  * I want to see my total wins, ties, and losses after 10 rounds.
+  * I want to see my total wins, ties, and losses after 3 rounds.
 
 * The computer's selection must be random to ensure a fair game.
 
