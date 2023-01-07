@@ -24,3 +24,16 @@ I build a rock-paper-scissors game using only JavaScript.
 
 * The computer's selection must be random to ensure a fair game.
 
+## Usage 
+
+Interact with the alert on your screen to play the game
+![](./resources/ss-rock-paper-scissora.png)
+
+Deployed link: https://ginacamelia.github.io/Rock-Paper-Scissors/
+
+## Credits 
+ 
+N/A
+
+## License
+Refer to License in the repository
