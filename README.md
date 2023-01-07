@@ -31,6 +31,8 @@ Interact with the alert on your screen to play the game
 
 Deployed link: https://ginacamelia.github.io/Rock-Paper-Scissors/
 
+If the game doesn't start when redirecting to that url, please refresh the page and the game should start. 
+
 ## Credits 
  
 N/A
