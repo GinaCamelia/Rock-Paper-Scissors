@@ -42,7 +42,7 @@ function playGame() {
         window.alert(`Wins: ${wins}; Losses: ${losses}; Ties: ${ties}`);
 
         // Asking user if they want to play again
-        let playAgain = prompt('Would you like to play again? (y/n');
+        let playAgain = prompt('Would you like to play again? (y/n)');
         if (playAgain !== 'y'){
             break;
         }
